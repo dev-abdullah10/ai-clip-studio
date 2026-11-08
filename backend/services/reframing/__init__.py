@@ -1,0 +1,1 @@
+"""Local intelligent reframing analysis and crop planning."""
